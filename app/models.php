@@ -1,5 +1,5 @@
 <?php
 
-require_once "core/Model.php";
+require_once "sturdy/Model.php";
 
 use Sturdy\Model;
