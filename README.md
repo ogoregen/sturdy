@@ -4,4 +4,4 @@ Sturdy is a PHP web application framework inspired by Django. It features databa
 
 ## Usage
 
-For a detailed usage guide check [the Wiki](https://github.com/ogoregen/sturdy/wiki).
+For a detailed usage guide check [the wiki](https://github.com/ogoregen/sturdy/wiki).
